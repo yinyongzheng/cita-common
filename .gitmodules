@@ -1,4 +1,4 @@
 [submodule "libproto/proto"]
 	path = libproto/proto
 	url = https://github.com/yinyongzheng/cita-proto.git
-	branch = master
+	branch = develop
